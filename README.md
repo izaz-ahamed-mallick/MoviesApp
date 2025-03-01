@@ -6,9 +6,9 @@ The **Movie App** is an API-based React frontend project for browsing and managi
 ## Features
 - 🎬 **Browse Movies** – View a collection of movies fetched from an API.
 - 🔍 **Search Functionality** – Find movies by title or genre.
-- 📌 **Watchlist Management** – Add or remove movies from your personal watchlist.
+-
 - 🎭 **Movie Details Page** – Get detailed information about each movie.
-- 🌙 **Dark Mode Support** – Premium UI with light/dark mode toggle.
+
 - 🔄 **State Management** – Powered by Redux for efficient data handling.
 - ⚡ **Optimized Performance** – Fast and responsive UI.
 - 📱 **Fully Responsive** – Works seamlessly on all devices.
@@ -22,8 +22,8 @@ The **Movie App** is an API-based React frontend project for browsing and managi
 ## Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/movie-app.git
-   cd movie-app
+   git clone https://github.com/izaz-ahamed-mallick/MoviesApp.git
+   cd MoviesApp
    ```
 
 2. **Install dependencies:**
